@@ -5,8 +5,10 @@ Built by *Abhudaya Singh* and *Aryan Madhav* as a college project.
 
 ## Preview
 
-![Drone Simulation](screenshot.png)  
-Live 3D drone with PID control and reset system.
+<img src="screenshot.png" width="600"/>
+
+*Live 3D drone with PID control and reset system.*
+
 
 ## Features
 
